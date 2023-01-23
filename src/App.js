@@ -6,7 +6,7 @@ function App() {
     <div className="App">
     boka chowdhury new commit 
     pagol hoye gelam 
-      
+    <h2>everythis is clear</h2>
     </div>
   );
 }
